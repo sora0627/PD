@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="seni_sub">サブに画面遷移</string>
+    <string name="gamen_sub">ここはサブ画面だよ</string>
+    <string name="seni_main">メインに画面遷移</string>
+</resources>
